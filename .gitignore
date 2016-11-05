@@ -1,0 +1,4 @@
+web/testrun.sh
+*.pyc
+__pycache__
+
